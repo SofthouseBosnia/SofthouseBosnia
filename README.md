@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SofthouseBosnia, part of Softhouse Consulting from Sweden
 - 👀 I’m interested in MERN stack talents
-- 🌱 I’m currently looking for great talent
+- 🌱 I’m currently looking for great software developers
 - 💞️ I’m looking to collaborate on various short and long term projects
 - 📫 Reach me at: info.bosnia@softhouse.se
 
